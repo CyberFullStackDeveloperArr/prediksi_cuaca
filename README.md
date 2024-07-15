@@ -7,3 +7,7 @@
 > Fahreza Rizky Pradana
 > Moh. Reza Alfi Ali
 > Ahmad Wahyu Abdillah
+
+| **Penjelasan**   | 
+|------------|
+| <p align="justify">Komputasi numerik adalah cabang ilmu komputer dan matematika yang berkaitan dengan penggunaan algoritma untuk menyelesaikan masalah matematis melalui pendekatan numerik. Ini sering digunakan untuk menghitung solusi numerik dari persamaan matematis, menganalisis data, dan menyelesaikan masalah teknik dan ilmiah yang kompleks. Teknik-teknik dalam komputasi numerik mencakup metode interpolasi, integrasi numerik, pemecahan sistem persamaan, dan optimasi.</p>     |
