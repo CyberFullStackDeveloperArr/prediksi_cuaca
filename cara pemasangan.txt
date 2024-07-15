@@ -1,0 +1,9 @@
+instal dulu untuk fitur pythonnya di terminal file python:
+
+pip install pandas
+
+pip install matplotlib
+
+instal satu-satu
+
+kemudian jalankan file cuaca.py
